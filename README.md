@@ -11,7 +11,7 @@ The original version is availale at [Green Tea Press](https://greenteapress.com/
 ## Contribution
 You can contribute to the project by translating or by editing the translated parts. Please let me know if you want to take a part.   
 ### Translators
-- Amirabbas Asadi
+- Amirabbas Asadi ( amir137825@gmail.com )
 
 ## License
 This is a free translation under [Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)](https://creativecommons.org/licenses/by-nc/3.0/) license.
