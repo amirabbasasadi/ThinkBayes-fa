@@ -1,0 +1,49 @@
+\documentclass[a4paper,table]{book}
+
+\usepackage{graphicx}
+
+\usepackage[a4paper, total={6.5in, 8.5in}]{geometry}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric}
+\usetikzlibrary{shapes.arrows}
+\usepackage{array}
+\usepackage{keyval}
+\usepackage{dirtree}
+\usepackage{environ}
+\usepackage{minted}
+\usepackage[hidelinks]{hyperref}
+\usepackage{hyperref}
+\usetikzlibrary{shapes,snakes}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+
+\usepackage{xcolor}
+
+\usepackage{xepersian}
+\settextfont{IRNazanin}
+\setlatintextfont{Ubuntu}
+\setmonofont{Ubuntu Mono}
+\setlength\headheight{40pt} %% just to make warning go away. Adjust the value after looking into the warning.
+\renewcommand*\baselinestretch{1.8}
+\title{فکر بیزی داشته باشه}
+
+
+
+\begin{document}
+
+
+\makeatletter
+    \begin{titlepage}
+        \begin{center}
+		{\Huge \bfseries  تفکر بیزی داشته باش }\\\vspace{0.5cm}
+		{\huge \bfseries  آمار بیزی ساده شد!}\\\vspace{1cm}
+		{\Large \bfseries  نویسنده: آلن. ب. داونی }\\\vspace{0.25cm}
+            	{\Large \bfseries  مترجم: امیرعباس اسدی }\vspace{0.25cm}
+        \end{center}
+    \end{titlepage}
+\makeatother
+\thispagestyle{empty}
+\tableofcontents
+\include{chapters/ch1}
+
+\end{document}
