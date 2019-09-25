@@ -1,4 +1,4 @@
-# Think Bayes Persian Translation
+# Persian Translation of Think Bayes
 This repository contains persian translation of Think Bayes, Bayesian Statistics Made Simple by Allen B. Downey.
 
 ## About The Book
